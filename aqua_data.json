@@ -1,0 +1,22 @@
+{
+    "Fish": {
+        "Salmon": {
+            "min_quantity": 1,
+            "max_quantity": 2
+        },
+        "Cutla": {
+            "min_quantity": 1,
+            "max_quantity": 2
+        }
+    },
+    "Prawn": {
+        "Tiger": {
+            "min_quantity": 1,
+            "max_quantity": 1
+        },
+        "Vanami": {
+            "min_quantity": 2,
+            "max_quantity": 2
+        }
+    }
+}
